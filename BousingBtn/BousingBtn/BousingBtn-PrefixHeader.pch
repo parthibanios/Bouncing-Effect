@@ -1,0 +1,16 @@
+//
+//  BousingBtn-PrefixHeader.pch
+//  BousingBtn
+//
+//  Created by ev_mac18 on 04/05/17.
+//  Copyright © 2017 ev_mac18. All rights reserved.
+//
+
+#ifndef BousingBtn_PrefixHeader_pch
+#define BousingBtn_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "PulsingHalo.h"
+#import "PulsingHaloLayer.h"
+#endif /* BousingBtn_PrefixHeader_pch */
