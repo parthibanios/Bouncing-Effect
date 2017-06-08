@@ -19,7 +19,6 @@ class ViewController: UIViewController {
         workoutBtn.layer.borderWidth = 4 //2
 //        workoutBtn.layer.borderColor = UIColor.fromRGB(rgb: 0x00a6bb).cgColor
         workoutBtn.layer.borderColor = UIColor.red.cgColor
-        workoutBtn.layer.borderColor = UIColor.red.cgColor
 
         halo = PulsingHaloLayer()
         
@@ -46,7 +45,6 @@ class ViewController: UIViewController {
     override func viewDidLayoutSubviews() {
         self.halo.position = CGPoint(x: (workoutBtn.frame.or).float, y: workoutBtn.frame.size.y)//CGPoint(x: workoutBtn.frame.size.x, y: workoutBtn.frame.size.y)
     }
-
 
 }
 
