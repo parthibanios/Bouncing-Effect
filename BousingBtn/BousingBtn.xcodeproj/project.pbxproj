@@ -460,7 +460,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.eventurers.BousingBtn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Volumes/Work/Parthiban/swift_learning/BousingBtn/BousingBtn/BousingBtn-PrefixHeader.pch";
+				SWIFT_OBJC_BRIDGING_HEADER = "./BousingBtn/BousingBtn/BousingBtn-PrefixHeader.pch";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -474,7 +474,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.eventurers.BousingBtn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Volumes/Work/Parthiban/swift_learning/BousingBtn/BousingBtn/BousingBtn-PrefixHeader.pch";
+				SWIFT_OBJC_BRIDGING_HEADER = "./BousingBtn/BousingBtn/BousingBtn-PrefixHeader.pch";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -556,6 +556,7 @@
 				F6A6E17F1EBB59B800B874A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F6A6E1801EBB59B800B874A4 /* Build configuration list for PBXNativeTarget "BousingBtnTests" */ = {
 			isa = XCConfigurationList;
@@ -564,6 +565,7 @@
 				F6A6E1821EBB59B800B874A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F6A6E1831EBB59B800B874A4 /* Build configuration list for PBXNativeTarget "BousingBtnUITests" */ = {
 			isa = XCConfigurationList;
@@ -572,6 +574,7 @@
 				F6A6E1851EBB59B800B874A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
