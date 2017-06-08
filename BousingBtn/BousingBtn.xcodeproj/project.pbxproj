@@ -460,7 +460,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.eventurers.BousingBtn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "./BousingBtn/BousingBtn/BousingBtn-PrefixHeader.pch";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Volumes/Work/Purushoth project/Training/Bouncing-Effect/BousingBtn";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -474,7 +474,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.eventurers.BousingBtn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "./BousingBtn/BousingBtn/BousingBtn-PrefixHeader.pch";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Volumes/Work/Purushoth project/Training/Bouncing-Effect/BousingBtn";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;

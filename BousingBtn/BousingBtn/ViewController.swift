@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         workoutBtn.layer.borderWidth = 4 //2
 //        workoutBtn.layer.borderColor = UIColor.fromRGB(rgb: 0x00a6bb).cgColor
         workoutBtn.layer.borderColor = UIColor.red.cgColor
+        workoutBtn.layer.borderColor = UIColor.red.cgColor
 
         halo = PulsingHaloLayer()
         
